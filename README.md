@@ -1,22 +1,22 @@
 # MediHealth-Ghana-Ltd-Sales-Analysis-
 # Table of Content
--  [Overview]
+-  [Overview](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#overview)
 
--  [Business Problem & Objectives]
+-  [Business Problem & Objectives](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#business-problem--objectives)
 
--  [Dataset Description]
+-  [Dataset Description](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#dataset-description)
 
--  [Project Workflow]
+-  [Project Workflow](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#project-workflow)
 
--  [Dashboard]
+-  [Dashboard](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#dashboard)
 
--  [Key Insights]
+-  [Key Insights](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#key-insights)
 
--  [Recommendations]
+-  [Recommendations](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#recommendations)
 
--  [The Business Value of Sales Analyst]
+-  [The Business Value of Sales Analyst](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#the-business-value-of-sales-analyst)
 
--  [Future Improvements]
+-  [Future Improvements](https://github.com/cadah2024/MediHealth-Ghana-Ltd-Sales-Analysis-#future-improvement)
 # Overview
 MediHealth Ghana Ltd., a leading pharmaceutical distributor operating nationwide, has experienced inconsistent sales performance, with the Northern and Western Regions underperforming. Although several hypotheses were considered to explain the Western Region’s weak performance, the current dataset lacks the parameters needed to validate them. This signals the need for improved data collection and deeper analytics. Therefore, MediHealth should enhance its data tracking systems and consider hiring a dedicated data analyst to uncover key insights, streamline operations, and boost sales performance in weaker regions.
 # Business Problem & Objectives
